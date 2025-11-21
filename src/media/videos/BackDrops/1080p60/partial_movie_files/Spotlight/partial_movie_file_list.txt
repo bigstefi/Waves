@@ -1,2 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users_/Isti/Python/Waves/src/media/videos/BackDrops/1080p60/partial_movie_files/Spotlight/3977891868_4200955779_3807479240.mp4'
