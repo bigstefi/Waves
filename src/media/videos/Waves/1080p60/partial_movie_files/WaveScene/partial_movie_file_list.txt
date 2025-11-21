@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users_/Isti/Python/Waves/src/media/videos/Waves/1080p60/partial_movie_files/WaveScene/3977891868_1734327179_983308047.mp4'
+file 'file:C:/Users_/Isti/Python/Waves/src/media/videos/Waves/1080p60/partial_movie_files/WaveScene/2852726489_2106301254_1297399714.mp4'
+file 'file:C:/Users_/Isti/Python/Waves/src/media/videos/Waves/1080p60/partial_movie_files/WaveScene/2852726489_1734327179_3837828097.mp4'
